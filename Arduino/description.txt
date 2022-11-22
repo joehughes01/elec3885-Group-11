@@ -1,0 +1,1 @@
+This folder containes the project code and files used for the arduino or other board we end up using

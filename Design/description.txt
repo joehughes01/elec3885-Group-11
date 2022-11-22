@@ -1,0 +1,1 @@
+This folder containes the design files that might be useful to store on here that arent code.
