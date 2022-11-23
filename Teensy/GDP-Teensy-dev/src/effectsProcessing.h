@@ -1,0 +1,7 @@
+#ifndef EFFECTSPROCESSING_H
+#define EFFECTSPROCESSING_H
+
+
+
+
+#endif
